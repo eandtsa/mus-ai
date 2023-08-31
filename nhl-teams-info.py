@@ -1,6 +1,7 @@
 import requests
 
 # NHL API endpoint to get team information
+# version 2 of the code
 url = "https://statsapi.web.nhl.com/api/v1/teams"
 
 response = requests.get(url)
