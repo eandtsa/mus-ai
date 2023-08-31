@@ -1,2 +1,2 @@
 # mus-ai
-mus-ai-training
+mus-ai-training @ VMware
